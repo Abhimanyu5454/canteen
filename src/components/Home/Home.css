@@ -1,0 +1,13 @@
+.ibody{
+    background-image: url(./home1.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* no-repeat center center fixed; */
+}
+
+.fliud-container{
+    background: url(./home1.jpg) no-repeat center center fixed; 
+     background-size: cover;
+}

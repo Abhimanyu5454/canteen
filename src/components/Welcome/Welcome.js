@@ -10,8 +10,8 @@ import { Link } from 'react-router-dom'
 
 export default function Welcome(){
     return(
-        <div className="" style={{padding:"63px 0px 0px 0px",background:"#dde8f6"}}>
-            <h1 style={{display:"flex", justifyContent:"center", fontSize:"60px"}}>Welcome</h1>
+        <div className="" style={{padding:"63px 0px 0px 0px",background:"#blue"}}>
+            <h1 style={{display:"flex", justifyContent:"center", fontSize:"60px",textDecoration:"underline"}}>Menu</h1>
             <div className="container">
                 <div className="row container-fluid" style={{padding:"20px 185px"}}>
                     <div className="card" style={{width: "18rem", margin:"0px 83px",borderRadius:'20px',boxShadow:"6px 7px 12px 3px black"}}>
